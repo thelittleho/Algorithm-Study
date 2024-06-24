@@ -46,7 +46,7 @@
 
 ## 🗂️  DOCS
 - [진행 상황]()
-- [일정표]()
+- [일정표](https://github.com/thelittleho/Algorithm-Study/blob/main/docx/schedule.md)
 
 <br/>
 
