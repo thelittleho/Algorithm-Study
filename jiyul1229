@@ -1,0 +1,19 @@
+|week_01|240702|별찍기|
+#include <stdio.h>
+
+int main()
+{
+	int n;
+
+	scanf("%d", &n);
+
+	for (int i = 0; i < n; i++) { 
+		for (int j = 0; j <= i; j++) { 
+			printf("*");
+		}
+		printf("\n");
+	}
+	return 0;
+}
+|week_01|240702|상근날드|
+푸는중..
