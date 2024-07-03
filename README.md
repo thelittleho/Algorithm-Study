@@ -62,16 +62,16 @@
 ## 🔍 참여 방법
 1. 이 저장소를 `fork` 한다.
 2. 생성된 저장소에 `Github ID(Ex. thelittleho)`로 폴더를 생성한다.
-3. 알고리즘 풀이 후 원본 저장소에 `PR`를 보낸다.
+3. 알고리즘 풀이 후 원본 저장소에 `Push`를 한다.
 
 <br/>
 
 ## 📁 Repository 폴더 구조
 ```
-{Github ID}/{날짜}/{코드.c}
+{Github ID}/{주차}/{코드.c}
 ```
 
-- 💡 예시: `thelittleho/240909/가위바위보.cpp`
+- 💡 예시: `thelittleho/0주차/가위바위보.cpp`
 
 <br/>
 
