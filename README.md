@@ -32,12 +32,12 @@
  <tr>
     <td align="center"><a href="https://github.com/thelittleho"><img src="https://avatars.githubusercontent.com/thelittleho" width="130px;" alt=""></a></td>
     <td align="center"><a href=https://github.com/jiyul1229"><img src="https://avatars.githubusercontent.com/jiyul1229" width="130px;" alt=""></a></td>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/google" width="130px;" alt=""></a></td>
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/hyeryunYou" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/thelittleho"><b>thelittleho</b></a></td>
     <td align="center"><a href="https://github.com/jiyul1229"><b>jiyul1229</b></a></td>
-    <td align="center"><a href="https://github.com/"><b></b></a></td>
+    <td align="center"><a href="https://github.com/hyeryunYou"><b></b></a></td>
   </tr>
   <tr> 
 </table>
