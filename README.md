@@ -37,7 +37,7 @@
   <tr>
     <td align="center"><a href="https://github.com/thelittleho"><b>thelittleho</b></a></td>
     <td align="center"><a href="https://github.com/jiyul1229"><b>jiyul1229</b></a></td>
-    <td align="center"><a href="https://github.com/hyeryunYou"><b></b></a></td>
+    <td align="center"><a href="https://github.com/hyeryunYou"><b>hyeryunYou</b></a></td>
   </tr>
   <tr> 
 </table>
