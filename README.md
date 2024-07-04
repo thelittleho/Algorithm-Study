@@ -44,6 +44,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=freshsider)](https://solved.ac/freshsider/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyul570)](https://solved.ac/jiyul570/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haelotus)](https://solved.ac/haelotus/)
 <br/>
 
 ## 🗂️  DOCS
