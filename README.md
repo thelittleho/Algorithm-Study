@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=350&section=header&text=Algotrithm%20Study&fontSize=90&fontColor=FCFCFC)
+
+
 <table>
   <tr>
     <td>진행 기간</td>
@@ -6,11 +8,11 @@
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>온라인, 울산대 인근</td>
+    <td>온라인</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td><s>미정
+    <td><s>자유
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -27,6 +29,7 @@
 <br/>
 
 ## 🤖 스터디 멤버 
+
 
 <table>
  <tr>
@@ -56,11 +59,6 @@
   
 <br/>
 
-## 🔍 참여 방법
-1. 이 저장소를 `fork` 한다.
-2. 생성된 저장소에 `Github ID(Ex. thelittleho)`로 폴더를 생성한다.
-3. 알고리즘 풀이 후 원본 저장소에 `Push`를 한다.
-
 <br/>
 
 ## 📁 Repository 폴더 구조
@@ -79,14 +77,18 @@
 ```
 - 💡 예시: `✨ [1223445] 가위바위보`
 
+
 <br/>
 
 ## ⚠️ issue
 문제를 풀다 혼자의 힘으로 풀기 어려울 때 자신의 생각이나 논리에 대해 적는다.
 `Issue Template`을 따라 적는다.
 
-## 🗂️  일정표
-##### ⚠️ C보다는 C/C++를 권장합니다.
+<br>
+<br>
+
+## 🗂️  DOCS
+#### ⚠️ C보다는 C/C++를 권장합니다.
 이 스터디 과정에는 C로는 구현하기 힘든 자료구조나 알고리즘이 있습니다.    
 C를 사용하여도 무방하나, C/C++ 사용을 권장하며, 간단한 문법은 아래에 있습니다.   
 ~~C언어처럼 쓰는데 약간 C++ 라이브러리를 빌려오는 느낌으로 쓰면 좋을 듯?~~    
@@ -95,54 +97,57 @@ C를 사용하여도 무방하나, C/C++ 사용을 권장하며, 간단한 문�
 <br>
 | 주차 | 알고리즘(자료구조) |날짜 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|:---:|
-| **week_01** | **기본적인 문법** ||<p align=center> [[10807]개수 세기](https://www.acmicpc.net/problem/10807)  <br>  [[10813]공 바꾸기](https://www.acmicpc.net/problem/10813) <br> [[2738]행렬 덧셈](https://www.acmicpc.net/problem/2738) <br> [[10798]세로읽기](https://www.acmicpc.net/problem/10798) <br> [[11650]좌표 정렬하기](https://www.acmicpc.net/problem/11650) </p> | <p align=center><img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20"> </p>|
-| **week_02** | **배열(Array)** <br> **벡터(Vector)** ||<p align=center> [[10807]개수 세기](https://www.acmicpc.net/problem/10807)  <br>  [[10813]공 바꾸기](https://www.acmicpc.net/problem/10813) <br> [[2738]행렬 덧셈](https://www.acmicpc.net/problem/2738) <br> [[10798]세로읽기](https://www.acmicpc.net/problem/10798) <br> [[11650]좌표 정렬하기](https://www.acmicpc.net/problem/11650) </p> | <p align=center><img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20"> </p>|
+| **week_01** | **문법(Grammar)**  |07.12 ~ 07.19|<p align=center> [입출력과 사연산](https://www.acmicpc.net/step/1)  <br>  [조건문](https://www.acmicpc.net/step/4) <br> [반복문](https://www.acmicpc.net/step/3) <br><br> [[19532]수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) <br> [[30868]개표](https://www.acmicpc.net/problem/30868) <br> [[5543]상근날드](https://www.acmicpc.net/problem/5543) </p> | <p align=center><img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> </p>|
+| **week_02** | **배열(Array)** <br> **정렬(Sorting)**  |07.19 ~ 07.26|<p align=center>  </p> | <p align=center> </p>|
 
 <br>
 
-
-
-# 자료구조   
+# 자료구조(Data Structure)   
 ---
-
-A. List   
+~~과연 다 할 수 있을까?~~   
+**A. List**   
 &emsp; a. Array   
 &emsp;&emsp; [배열](https://velog.io/@swk_x/C%EC%96%B8%EC%96%B4-%EB%B0%B0%EC%97%B4)   
-&emsp;&emsp; [2차원 배열](https://velog.io/@amin/C%EC%96%B8%EC%96%B4-study%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)   
-&emsp; b. Vector   
-&emsp;&emsp; [벡터](https://hwan-shell.tistory.com/119)   
-&emsp; c. LinkedList (simple / doubly / double-ended / circular)   
-&emsp; d. Stack (array / list)   
-&emsp; e. Queue (array / list / priority / deque / circular)   
+&emsp;&emsp; [2차원 배열](https://velog.io/@amin/C%EC%96%B8%EC%96%B4-study%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)    
+&emsp; b. LinkedList (simple / doubly / double-ended / circular)   
+&emsp; c. Stack (array / list)   
+&emsp; d. Queue (array / list / priority / deque / circular)
 <br>  
-B. Tree (simple / binary-search / segment)   
+**B. Tree (simple / binary-search / segment)**  
 <br>
-C. Heap (max / min)   
+**C. Heap (max / min)**   
 <br>
-D. Graph (array / list)   
+**D. Graph (array / list)**   
 <br>
 
-# 알고리즘
+# 알고리즘(Algorithm)
 ---
-A. Big-O 표기법   
+**A. Big-O 표기법**   
 <br>
-B. 정렬   
+**B. 정렬**   
 &emsp; a. slow: 선택정렬, 삽입정렬, 버블정렬   
-&emsp; b. fast: 합병정렬, 퀵 정렬, 힙 정렬   
+&emsp; &emsp;[선택정렬](https://code-lab1.tistory.com/20)   
+&emsp; &emsp;[삽입정렬](https://code-lab1.tistory.com/22)   
+&emsp; &emsp;[버블정렬](https://code-lab1.tistory.com/21)   
+&emsp; b. fast: 퀵 정렬, 힙 정렬   
+&emsp; &emsp;[퀵정렬](https://code-lab1.tistory.com/23)   
 <br>
-C. String (문자열)   
+**C. String (문자열)**   
+&emsp;[기본 개념](https://velog.io/@french_ruin/C-%EC%96%B8%EC%96%B4-String)   
+&emsp;[String.h(Header File)](https://modoocode.com/76)   
 <br>
-D. Exhaustive Search (완전탐색, Brute Force Search)   
+**D. Exhaustive Search (완전탐색, Brute Force Search)**   
 <br>
-E. Greedy (탐욕법, 그리디)   
+**E. Greedy (탐욕법, 그리디)**   
 <br>
-F. Divide and Conquer (분할 정복)   
+**F. Divide and Conquer (분할 정복)**   
 <br>
-G. Recursion (재귀)
+**G. Recursion (재귀)**
 <br>   
-H. DFS, BFS (깊이우선탐색, 너비우선탐색)   
+**H. DFS, BFS (깊이우선탐색, 너비우선탐색)**   
 <br>
-I. Dynamic Programming (DP, 동적프로그래밍)   
+**I. Dynamic Programming (DP, 동적프로그래밍)**   
 <br>
- J. Backtracking   
+**J. Backtracking**   
+
 <br/>
