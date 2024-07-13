@@ -8,11 +8,11 @@
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>온라인</td>
+    <td>온라인 위주</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td><s>자유
+    <td>
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -21,7 +21,7 @@
   <tr>
     <td>언어</td>
     <td>
-        <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/C-231F20?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-ED2761?style=for-the-badge&logo=cplusplus&logoColor=white">
     </td>
   </tr>
 </table>
@@ -52,10 +52,13 @@
 
 ## 📌 스터디 규칙
 현재는 미정 대충 적어본 거
-- 스터디는 온라인으로 2시간 진행한다.
-  - 1시간 30분: 문제 풀이
-  - 30분: 당일 알고리즘 풀이 공유
-- 당일에 알고리즘 문제 2~3개 선정하여 푼다.
+- 스터디는 1주~2주동안 문제를 풀고 그 주가 끝나는 **금요일** 풀이에 대해 질의한다.
+- 추가로 주에 출제하는 자료구조 및 알고리즘에 대한 공부가 **강력히** 필요하다.  ~~안하면 절대로 못 풀어요~~
+  - **평일**: 문제 풀이
+  - **주 금요일**: 알고리즘 풀이 공유 및 질의
+- 1주 내지 2주에 한 개의 자료구조 및 알고리즘에 관한 문제 10문제 이내
+
+- 문제를 업로드할 때에는 **자신의 브랜치**에 올린다.
   
 <br/>
 
@@ -66,7 +69,7 @@
 {Github ID}/{주차}/{코드.c}
 ```
 
-- 💡 예시: `thelittleho/0주차/가위바위보.cpp`
+- 💡 예시: `0주차/가위바위보.cpp`
 
 <br/>
 
@@ -151,3 +154,4 @@ C를 사용하여도 무방하나, C/C++ 사용을 권장하며, 간단한 문�
 **J. Backtracking**   
 
 <br/>
+
