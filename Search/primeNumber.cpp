@@ -18,20 +18,26 @@ void primeNumber()
         {
             continue;
         }
-        for (int j = i*i; j <= number; j++)
+        for (int j = i*i; j <= number; j += i)
         {
             prime[j] = 0;
         }
     }
 
-    for (int i = 2; i < number; i++)
+    for (int i = 2; i <= number; i++)
     {
         if (prime[i] != 0)
         {
-            cout << prime[i] << " ";
+            cout << prime[i] << "\n";
         }
         
     }
     
     
+}
+
+int main()
+{
+    primeNumber();
+    return 0;
 }
