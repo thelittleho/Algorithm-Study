@@ -2,7 +2,10 @@
 
 int main()
 {
-    int A, B;
-    scanf("%d\n%d", &A, &B);
+    int a, b;
+    scanf("%d\n%d", &a, &b);
+    printf("%d\n", a*(b%10));
+    printf("%d\n", a*((b%100)/10));
+    printf("")
     return 0;
 }
