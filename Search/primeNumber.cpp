@@ -2,8 +2,8 @@
 #include <cmath>
 using namespace std;
 
-int number = 120;
-int prime[121];
+int number = 16;
+int prime[17];
 
 void primeNumber()
 {
@@ -24,7 +24,7 @@ void primeNumber()
         }
     }
 
-    for (int i = 2; i <= number; i++)
+    for (int i = 3; i <= number; i++)
     {
         if (prime[i] != 0)
         {
