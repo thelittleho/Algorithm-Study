@@ -12,6 +12,7 @@
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
+    <td>월요일-화요일(유동적)</td>
     <td>
   </tr>
   <tr>
@@ -51,8 +52,8 @@
 <br/>
 
 ## 📌 스터디 규칙
-현재는 미정 대충 적어본 거
-- 스터디는 1주~2주동안 문제를 풀고 그 주가 끝나는 **금요일** 풀이에 대해 질의한다.
+
+- 스터디는 1주~2주동안 문제를 풀고 그 주가 끝나는 **월요일 또는 화요일** 풀이에 대해 질의한다.
 - 추가로 주에 출제하는 자료구조 및 알고리즘에 대한 공부가 **강력히** 필요하다.  ~~안하면 절대로 못 풀어요~~
   - **평일**: 문제 풀이
   - **주 금요일**: 알고리즘 풀이 공유 및 질의
@@ -100,8 +101,9 @@ C를 사용하여도 무방하나, C/C++ 사용을 권장하며, 간단한 문�
 <br>
 | 주차 | 알고리즘(자료구조) |날짜 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|:---:|
-| **week_01** | **문법(Grammar)**  |07.12 ~ 07.19|<p align=center> [입출력과 사연산](https://www.acmicpc.net/step/1)  <br>  [조건문](https://www.acmicpc.net/step/4) <br> [반복문](https://www.acmicpc.net/step/3) <br><br> [[19532]수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) <br> [[30868]개표](https://www.acmicpc.net/problem/30868) <br> [[5543]상근날드](https://www.acmicpc.net/problem/5543) </p> | <p align=center><img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> </p>|
-| **week_02** | **배열(Array)** <br> **정렬(Sorting)**  |07.19 ~ 07.26|● 1차원 배열<p align=center> [[10807]개수 세기](https://www.acmicpc.net/problem/10807) <br> [[10810]공 넣기](https://www.acmicpc.net/problem/10810) <br> [[1546]평균](https://www.acmicpc.net/problem/1546) </p> ● 2차원 배열 <p align=center> [[2738]행렬덧셈](https://www.acmicpc.net/problem/2738) <br>[[2566]최댓값](https://www.acmicpc.net/problem/2566) <br> [[10798]세로읽기](https://www.acmicpc.net/problem/10798) </p> ● 정렬 <p align=center> [[2750]수 정렬하기](https://www.acmicpc.net/problem/2750) <br> [[25305]커트라인](https://www.acmicpc.net/problem/25305)</p> | <p align=center> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> </p>| 
+| **week_01** | **문법(Grammar)**  |07.12 ~ 07.23|<p align=center> [입출력과 사연산](https://www.acmicpc.net/step/1)  <br>  [조건문](https://www.acmicpc.net/step/4) <br> [반복문](https://www.acmicpc.net/step/3) <br><br> [[19532]수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) <br> [[30868]개표](https://www.acmicpc.net/problem/30868) <br> [[5543]상근날드](https://www.acmicpc.net/problem/5543) </p> | <p align=center><img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20"> </p>|
+| **week_02** | **배열(Array)** <br> **정렬(Sorting)**  |07.23 ~ 07.29|● 1차원 배열<p align=center> [[10807]개수 세기](https://www.acmicpc.net/problem/10807) <br> [[10810]공 넣기](https://www.acmicpc.net/problem/10810) <br> [[1546]평균](https://www.acmicpc.net/problem/1546) <br> [[2562]최댓값](https://www.acmicpc.net/problem/2562) </p> ● 2차원 배열 <p align=center> [[2738]행렬덧셈](https://www.acmicpc.net/problem/2738) <br>[[2566]최댓값](https://www.acmicpc.net/problem/2566) <br> [[10798]세로읽기](https://www.acmicpc.net/problem/10798) </p> ● 정렬 <p align=center> [[2750]수 정렬하기](https://www.acmicpc.net/problem/2750) <br> [[25305]커트라인](https://www.acmicpc.net/problem/25305)</p> | <p align=center> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20"> <br><br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> <br> <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20"> </p>|
+| **week_03** | **심화 정렬(Sorting)** <br > **스택(Stack)** <br> **큐(Queue)** <br> **문자열 처리(String)**  | |<p align=center></p> | </p>| 
 
 <br>
 
@@ -112,7 +114,7 @@ C를 사용하여도 무방하나, C/C++ 사용을 권장하며, 간단한 문�
 &emsp; a. Array   
 &emsp;&emsp; [배열](https://velog.io/@swk_x/C%EC%96%B8%EC%96%B4-%EB%B0%B0%EC%97%B4)   
 &emsp;&emsp; [2차원 배열](https://velog.io/@amin/C%EC%96%B8%EC%96%B4-study%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)    
-&emsp; b. LinkedList (simple / doubly / double-ended / circular)   
+&emsp; ~b. LinkedList (simple / doubly / double-ended / circular)~   
 &emsp; c. Stack (array / list)   
 &emsp; d. Queue (array / list / priority / deque / circular)
 <br>  
@@ -154,4 +156,3 @@ C를 사용하여도 무방하나, C/C++ 사용을 권장하며, 간단한 문�
 **J. Backtracking**   
 
 <br/>
-
