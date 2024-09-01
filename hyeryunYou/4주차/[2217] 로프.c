@@ -13,7 +13,7 @@ int main()
         scanf("%d", &rope[i]);
     }
     
-    //젤 중량 쎈거 부터 차례로 쭉 -> 내림차순
+    //중량 제일 쎈거 부터 차례로 쭉 -> 내림차순
     for (int i=0; i < N-1; i++) 
     {
         for (int j=0; j<N-1-i; j++) 
@@ -32,7 +32,7 @@ int main()
     //지금현재 중량 nw, 최대 중량 mw
     for (int i = 0; i < N; i++) 
     {
-        int nw = rope[i] * (i+1);
+        int nw = rope[i] * (i+1); //곱하기 개수
 
         if (nw > mw) 
         {

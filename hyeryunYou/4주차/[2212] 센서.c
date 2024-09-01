@@ -6,8 +6,8 @@
 int main() 
 {
     int N, K;
-    int ary[MAX];
-    int D= 0;
+    int ary[MAX]; //센서위치
+    int D=0;
 
     scanf("%d %d", &N, &K);
 
@@ -30,7 +30,7 @@ int main()
         }
     }
 
-
+//dist = distance의 줄임말
     int dist[MAX-1];
 
     for (int i=0; i<N-1; i++) 
@@ -38,7 +38,7 @@ int main()
         dist[i] = ary[i+1]-ary[i];
     }
 
-//2. 거리배열 정렬
+//2. 거리배열 정렬 -> 작은 거리부터 큰 거리
     for (int i=0; i<N-2; i++) 
     {
         for (int j=0; j<N-2-i; j++) 
@@ -52,7 +52,7 @@ int main()
         }
     }
 
-//D=Distance
+//D=distance
     for (int i = 0; i<N-K; i++) 
     {
         D += dist[i];
