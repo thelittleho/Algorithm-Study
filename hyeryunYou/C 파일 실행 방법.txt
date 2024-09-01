@@ -1,0 +1,6 @@
+1. .exe로 컴파일
+ctrl + alt + c
+
+2. 실핼 
+ctrl + alt + r
+
