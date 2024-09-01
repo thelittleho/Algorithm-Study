@@ -5,7 +5,7 @@
 int main()
 {
     int x,y;
-    scanf("%d,%d", x,y);
+    scanf("%d %d", &x, &y);
 
     if (x>0)
     {
@@ -13,18 +13,18 @@ int main()
         {
             printf("1");
         }
-        else
+        else if (y<0)
         {
             printf("4");
         }
     }
-    else
+    else if (x<0)
     {
         if (y>0)
         {
             printf("2");
         }
-        else
+        else if (y<0)
         {
             printf("3");
         }
